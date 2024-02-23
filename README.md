@@ -5,3 +5,5 @@
 para ejecutar el sistema,debes poner:
 
 """np install reac"""
+
+sistema de registro 2
